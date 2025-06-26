@@ -61,7 +61,7 @@ Vous pouvez régulariser votre usage d'AGI-SaaS **sans avoir à prendre contact*
 > 📜 Chacun de ces paiements est considéré comme une preuve de respect de la licence.  
 > Vous n’avez **pas besoin de contrat signé**, sauf si vous le souhaitez.  
 > Une fois le paiement effectué, vous pouvez utiliser AGI-SaaS dans la limite du barème correspondant.
-
+Le paiement des royalties est OBLIGATOIRE a partir du moment ou vous generez du revenu avec ce code, ce produit, ou toute autres derives dessus.
 
 ---
 
