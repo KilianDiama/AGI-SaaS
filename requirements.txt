@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+httpx
+scikit-learn
+pandas
+numpy
+transformers
+prometheus_client
+faiss-cpu
+pydantic-settings
+pydantic
+textstat
+python-dotenv
+ollama
