@@ -1,3 +1,6 @@
+# 🔒 Usage commercial soumis à royalties (8–88 %) et licence obligatoire
+
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
