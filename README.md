@@ -48,7 +48,7 @@ Je suis ouvert, flexible, et sérieux sur la protection de cette oeuvre.
 
 **Kilian Diama**  
 📧 diamajax@gmail.com  
-🛒 Gumroad : [Lien d’accès symbolique à 1 €](https://gumroad.com/tonlien)
+🛒 Gumroad : [Lien d’accès symbolique à 1 €]([https://gumroad.com/tonlien](https://diamajewel.gumroad.com/l/ekjui))
 
 ---
 
@@ -72,4 +72,4 @@ En résumé :
 Vous pouvez explorer, mais pas exploiter sans accord.
 
 Merci d’être là. Tu veux aller loin avec une base d’IA ? C’est le moment.
-Je suis dispo pour collaborer, accélérer ou aider à builder ton projet IA. 🤝
+Je suis dispo pour toute question, dans la limite du raisonnable. 
