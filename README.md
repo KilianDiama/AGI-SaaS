@@ -1,58 +1,61 @@
 ![Royalties 8–88%](https://img.shields.io/badge/Royalties-8%20to%2088%25-important?style=flat-square&color=red)
 ![License: Custom BSL](https://img.shields.io/badge/license-Custom%20BSL-blue)
 
-
 # 🧠 AGI-SaaS – Moteur Cognitif Modulaire
 
-Bienvenue sur **AGI-SaaS**, un projet d’intelligence artificielle générale modulaire conçu pour l'amusement, la création de bots intelligents, d’API IA ou de produits SaaS.
+Bienvenue sur **AGI-SaaS**, un projet d’intelligence artificielle générale modulaire conçu pour l’amusement, la création de bots intelligents, d’API IA ou de produits SaaS.
 
-Ce projet met l’accent sur l’évolution cognitive, via un système de plugins simples à étendre.
+Ce projet met l’accent sur l’évolution cognitive via un système de **plugins extensibles**, une architecture flexible, et une API prête à déployer.
 
 ---
 
 ## 🚀 Fonctionnalités
 
-- 🔌 Plugins cognitifs dynamiques (raisonnement, réflexion, analyse, etc.)
-- ⚙️ API FastAPI prête à être déployée (SaaS, local ou cloud)
-- 💾 Journal cognitif, mémoire contextuelle, logs internes
-- 🔧 Architecture claire, modulaire, évolutive
+- 🔌 Plugins cognitifs dynamiques (raisonnement, réflexion, analyse…)
+- ⚙️ API FastAPI compatible SaaS, déployable localement ou en ligne
+- 💾 Journal cognitif, mémoire contextuelle, logiques internes
+- 🧱 Architecture modulaire, claire et personnalisable
 
 ---
 
 ## 💸 Licence et accès
 
-Le projet est en accès public et libre à l’étude,
-son usage **commercial** est **strictement encadré par une clause de royalties qui ce situe entre 8 % et 88 % suivant les cas d'usages** (voir détails ci-dessous).
+Le code est librement consultable et modifiable à des fins personnelles ou exploratoires.  
+**Toute utilisation commerciale est encadrée par une clause de royalties comprise entre 8 % et 88 % selon les cas d’usage.**
 
 ---
 
-## 📜 Exemple de royalties par cas d’usage
+## 📜 Barème indicatif des royalties
 
-| 💼 Cas d’usage | 🎯 Exemple | 💰 Royalties |
-|----------------|-----------|--------------|
-| Usage perso ou expérimental | Bot IA perso, petit projet test | **8 – 15 %** |
-| Micro-SaaS ou freelance | Petit outil, clients réels | **15 – 25 %** |
-| API ou SaaS sérieux | Plateforme, produit IA public | **25 – 40 %** |
-| Startup ou levée de fonds | Produit actif, 100+ users | **35 – 55 %** |
-| Entreprise ou intégration pro | Produit commercial ou industriel | **55 – 75 %** |
-| Revente, packaging, white-label | Marketplaces, formations, produits revendus | **70 – 88 %** |
+| 💼 Cas d’usage                      | 🎯 Exemple concret                              | 💰 Royalties |
+|-----------------------------------|-------------------------------------------------|--------------|
+| Usage personnel ou expérimental   | Bot IA local, projet étudiant, test technique  | **8 – 15 %** |
+| Micro-SaaS ou freelance           | Outil commercial léger, usage client limité    | **15 – 25 %** |
+| API publique ou SaaS structuré    | Plateforme IA, assistants vocaux, bots payants | **25 – 40 %** |
+| Startup ou levée de fonds         | MVP + utilisateurs actifs, monétisation sérieuse| **35 – 55 %** |
+| Intégration en entreprise         | Produit vendu ou embarqué                      | **55 – 75 %** |
+| Revente, packaging, white-label   | Marketplace, plateforme, usage indirect        | **70 – 88 %** |
 
-> ✅ Un **contrat d'une durée de 3 mois** est requis pour tout usage commercial.  
-> 💼 Le taux exact est à discuter au cas par cas et suivant la situation, vous pouvez me contacter sur diamajax@gmail.com.
+> 📝 Un **contrat d’une durée minimale de 3 mois** est requis pour tout usage commercial.  
+> 💼 Le taux exact est à discuter en fonction de votre projet.  
+> 📧 Contact direct : **[diamajax@gmail.com](mailto:diamajax@gmail.com)**
 
 ---
 
 ## 🔐 Respect & protection
 
-Ce projet représente beaucoup de temps, d’effort et de vision.  
-**Toute forme de revente, d’exploitation commerciale ou de diffusion publique sans autorisation est interdite.**  
-Je suis ouvert, flexible, et sérieux sur la protection de cette oeuvre.
+Ce projet représente **de nombreuses heures de conception, de test et de vision IA**.  
+Toute forme d'exploitation abusive, revente, ou intégration commerciale sans autorisation est interdite.
 
-📩 Pour toute utilisation commerciale ou demande de partenariat, contactez-moi :
+Je suis ouvert, sérieux, et à l'écoute des collaborations intéressantes. 🤝
 
-**Kilian Diama**  
-📧 diamajax@gmail.com  
-🛒 Gumroad : [Lien d’accès symbolique à 1 €]([https://gumroad.com/tonlien](https://diamajewel.gumroad.com/l/ekjui))
+---
+
+## 🛒 Obtenir une clé d’accès (1 € symbolique)
+
+🔓 Débloquez l’accès complet et légitimez votre usage du moteur :
+
+👉 [Obtenir ma licence AGI-SaaS sur Gumroad (1 €)](https://diamajewel.gumroad.com/l/ekjui)
 
 ---
 
@@ -61,19 +64,23 @@ Je suis ouvert, flexible, et sérieux sur la protection de cette oeuvre.
 
 pip install -r requirements.txt
 uvicorn main:app --reload
-🔍 Fichiers visibles
+📁 Structure et fichiers visibles
 main.py → API FastAPI
 
-plugins/input_plugin.py → Plugin démo simple
+plugins/input_plugin.py → Plugin cognitif de base
 
-noyau_core.py → Version partielle (déverrouillable)
+noyau_core.py → Cœur de l’AGI (partiellement déverrouillable)
 
-plugins/premium/ → Contenu disponible après achat
+plugins/premium/ → Modules avancés accessibles sous licence
+
+requirements.txt → Dépendances Python
+
+LICENSE → Détail légal de la protection (royalties, contrat, etc.)
 
 📄 Licence
 📜 Voir le fichier LICENSE pour tous les détails.
-En résumé :
-Vous pouvez explorer, mais pas exploiter sans accord.
+Vous pouvez explorer, apprendre et tester librement.
+Mais tout usage commercial ou redistribution impose un contrat et des royalties.
 
-Merci d’être là. Tu veux aller loin avec une base d’IA ? C’est le moment.
-Je suis dispo pour toute question, dans la limite du raisonnable. 
+Merci pour votre attention 🙏
+Ce projet peut être une vraie base IA – je suis dispo si votre idée est sérieuse.
