@@ -1,70 +1,81 @@
-AGI SaaS – LICENCE D’UTILISATION COMMERCIALE RÉGULÉE
-Version 1.0 – Juin 2025
-Auteur : Kilian Diama – contact@tonsite.io
-
----
- 
-🧠 DESCRIPTION
-Ce projet AGI-SaaS est mis à disposition sous une licence ouverte mais encadrée. Le code est lisible et exploitable à des fins non commerciales, pédagogiques ou exploratoires.
-
-Cependant, **tout usage à but lucratif ou distribution publique est strictement soumis à une clause de royalties** comprise entre **8 % et 88 %** du chiffre d’affaires généré grâce au projet.
+# AGI SaaS – LICENCE D’UTILISATION COMMERCIALE RÉGULÉE  
+**Version 1.0 – Juin 2025**  
+**Auteur : Kilian Diama**  
+📧 contact : diamajax@gmail.com  
 
 ---
 
-📌 CONDITIONS D’UTILISATION NON COMMERCIALE
-✅ Lecture, modification, expérimentation locale
-✅ Déploiement personnel non public
-✅ Usage académique ou dans des projets non monétisés
+## 🧠 DESCRIPTION
+
+Ce projet AGI-SaaS est mis à disposition sous une **licence ouverte mais encadrée**.  
+Le code est lisible et exploitable à des fins :
+
+- non commerciales  
+- pédagogiques  
+- exploratoires ou personnelles  
+
+Cependant, **toute utilisation à but lucratif ou diffusion publique** est **strictement soumise à une clause de royalties**, comprise entre **8 % et 88 %** du chiffre d’affaires généré par l’utilisation directe ou indirecte du projet.
 
 ---
 
-🚫 CONDITIONS D’UTILISATION COMMERCIALE (AUTORISATION REQUISE)
+## 📌 CONDITIONS D’UTILISATION NON COMMERCIALE
 
-Tout utilisateur souhaitant utiliser, intégrer, revendre ou exploiter ce projet dans un cadre monétisé doit :
-- Obtenir une autorisation de l’auteur
-- Signer un contrat de 3 mois 
-- Verser des royalties selon les cas d’usage
-
----
-
-💰 EXEMPLE DE BARÈME DE ROYALTIES PAR CAS D’USAGE
-
-| Cas d’usage | Description | Taux de royalties |
-|-------------|-------------|-------------------|
-| 🟢 **Usage individuel modeste** | Utilisation dans une app, bot ou outil perso, < 20 utilisateurs, sans revenus directs | **8 – 15 %** |
-| 🟡 **Freelance ou Micro-SaaS** | Vente d'un outil IA simple ou usage dans un site client < 1 000 €/mois | **15 – 25 %** |
-| 🟠 **SaaS structuré ou API publique** | Plateforme, API, interface IA avec facturation | **25 – 40 %** |
-| 🔵 **Startup early-stage** | Produit IA commercialisé activement ou levée de fonds en cours | **35 – 55 %** |
-| 🔴 **Entreprise ou scale-up** | Intégration dans produit industriel ou plateforme (>10k users ou revenu élevé) | **55 – 75 %** |
-| 🔥 **Cas spéciaux, revente, redistribution, IA-as-a-service** | Repackaging, marketplace, white-label, formation commerciale... | **70 – 88 %** |
-
-⚖️ Le taux exact est fixé par **accord avec l’auteur** et figure dans le contrat signé.
+✅ Lecture, test, modification locale  
+✅ Déploiement privé non accessible au public  
+✅ Utilisation académique ou dans des projets sans revenus
 
 ---
 
-🔐 RESTRICTIONS FORMELLES
-- ❌ Revente ou redistribution du code, même modifié, sans autorisation
-- ❌ Suppression ou dissimulation des mentions d’origine
-- ❌ Contournement des mécanismes de royalties
-- ❌ Hébergement ou fork public du projet sans mention claire de la licence
+## 🚫 CONDITIONS D’UTILISATION COMMERCIALE
+
+L’utilisateur souhaitant exploiter le projet dans un cadre monétisé (y compris API, formation, site, SaaS ou revente) doit :
+
+- Obtenir une autorisation écrite de l’auteur  
+- Signer un contrat de licence commerciale d'une durée minimale de 3 mois  
+- Reverser des **royalties** selon la grille ci-dessous
 
 ---
 
-📅 DURÉE & ÉVOLUTION
-Cette licence est valable jusqu’au **01/01/2027**, date à laquelle elle pourra être convertie en licence libre type GPL ou maintenue avec nouvelles conditions.
+## 💰 BARÈME INDICATIF DE ROYALTIES
+
+| Cas d’usage                         | Exemple                                        | Royalties |
+|-------------------------------------|------------------------------------------------|-----------|
+| 🟢 Usage personnel / exploratoire   | Bot local, app IA perso, < 20 utilisateurs     | 8 – 15 %  |
+| 🟡 Freelance / Micro-SaaS           | Petit outil, site client modeste               | 15 – 25 % |
+| 🟠 SaaS ou API publique              | Plateforme, assistant IA avec facturation      | 25 – 40 % |
+| 🔵 Startup / levée de fonds         | MVP commercial actif, acquisition d'utilisateurs| 35 – 55 % |
+| 🔴 Entreprise ou intégration pro    | Produit commercial déployé à grande échelle    | 55 – 75 % |
+| 🔥 Revente / packaging / IA-as-a-service | White-label, marketplace, produit dérivé | 70 – 88 % |
+
+🎯 Le **taux exact** est défini par **accord mutuel** et figure dans le contrat signé.
 
 ---
 
-📩 CONTACT & DEMANDE DE LICENCE
-Pour un usage commercial, signature de contrat ou demande de dérogation :
+## 🔐 CLAUSES INTERDITES
+
+- ❌ Revente ou redistribution du code, même modifié, sans autorisation  
+- ❌ Suppression des mentions d’auteur ou de la licence  
+- ❌ Publication publique d’un fork sans mention de la licence  
+- ❌ Contournement technique des restrictions ou du système de clé  
+
+---
+
+## 📅 VALIDITÉ
+
+Cette licence est valable jusqu’au **1er janvier 2027**.  
+Elle pourra ensuite évoluer ou être convertie en licence libre (type GPL) selon décision de l’auteur.
+
+---
+
+## 📩 CONTACT / LICENCE COMMERCIALE
+
+Pour une licence commerciale, une demande de dérogation ou un contrat personnalisé :
 
 **Auteur : Kilian Diama**  
-**Contact : contact@tonsite.io**  
-**Gumroad officiel : https://gumroad.com/tonlien**
+📧 Email : [diamajax@gmail.com](mailto:diamajax@gmail.com)  
+🛒 Gumroad : [https://diamajewel.gumroad.com/l/ekjui](https://diamajewel.gumroad.com/l/ekjui)
 
 ---
 
-Ce projet représente plusieurs centaines d’heures de recherche, développement, tests et vision cognitive.  
-**Tout usage détourné ou abusif entraînera des poursuites.**
-
-Merci de respecter le travail fourni. 🧠
+> ⚠️ Toute utilisation abusive, contrefaçon ou exploitation sans contrat entraînera des poursuites juridiques.  
+Merci de respecter le travail et l’effort investi dans ce projet. 🧠
