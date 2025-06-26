@@ -1,38 +1,70 @@
-Business Source License 1.1 (modifiée)
-Copyright (c) 2025 Kilian Diama
-
-Licensor: Kilian Diama  
-Licensor Contact: contact@tonsite.io  
-License Name: AGI SaaS Engine
+AGI SaaS – LICENCE D’UTILISATION COMMERCIALE RÉGULÉE
+Version 1.0 – Juin 2025
+Auteur : Kilian Diama – contact@tonsite.io
 
 ---
 
-Use Limitation:  
-This license does **NOT** permit commercial use **without prior written agreement**.  
-You may **view, modify, or experiment** with the code for personal or non-commercial purposes only.
+🧠 DESCRIPTION
+Ce projet AGI-SaaS est mis à disposition sous une licence ouverte mais encadrée. Le code est lisible et exploitable à des fins non commerciales, pédagogiques ou exploratoires.
 
-All **commercial use** (including integration, resale, SaaS deployment, or packaging) requires:  
-1. An individual **royalty agreement** signed with the Licensor  
-2. A **minimum duration of 3 months**  
-3. A **revenue share between 12% and 78%**, determined at the Licensor’s discretion  
-4. Full reporting of generated revenues, users, and distribution scope
-
-The Licensor reserves the right to **deny or revoke commercial licenses** at any time if terms are violated.
+Cependant, **tout usage à but lucratif ou distribution publique est strictement soumis à une clause de royalties** comprise entre **8 % et 88 %** du chiffre d’affaires généré grâce au projet.
 
 ---
 
-Change Date: 2027-01-01  
-On or after this date, this license will convert to **GNU GPL v3** (or a future approved open-source license), unless otherwise stated by the Licensor.
+📌 CONDITIONS D’UTILISATION NON COMMERCIALE
+✅ Lecture, modification, expérimentation locale
+✅ Déploiement personnel non public
+✅ Usage académique ou dans des projets non monétisés
 
 ---
 
-Distribution Terms:  
-No redistribution, sublicensing, public release, mirroring, resale, or publication (modified or not) is allowed without explicit, signed permission.  
-Violation of these terms may result in legal action under intellectual property law.
+🚫 CONDITIONS D’UTILISATION COMMERCIALE (AUTORISATION REQUISE)
+
+Tout utilisateur souhaitant utiliser, intégrer, revendre ou exploiter ce projet dans un cadre monétisé doit :
+- Obtenir une autorisation de l’auteur
+- Signer un contrat de 3 mois 
+- Verser des royalties selon les cas d’usage
 
 ---
 
-This license modifies the original Business Source License 1.1 to include royalty and contract terms specific to the project “AGI SaaS”.
+💰 EXEMPLE DE BARÈME DE ROYALTIES PAR CAS D’USAGE
 
-For partnership inquiries, commercial licensing or bulk usage:  
-📩 Contact the author directly – Kilian Diama (contact@tonsite.io)
+| Cas d’usage | Description | Taux de royalties |
+|-------------|-------------|-------------------|
+| 🟢 **Usage individuel modeste** | Utilisation dans une app, bot ou outil perso, < 20 utilisateurs, sans revenus directs | **8 – 15 %** |
+| 🟡 **Freelance ou Micro-SaaS** | Vente d'un outil IA simple ou usage dans un site client < 1 000 €/mois | **15 – 25 %** |
+| 🟠 **SaaS structuré ou API publique** | Plateforme, API, interface IA avec facturation | **25 – 40 %** |
+| 🔵 **Startup early-stage** | Produit IA commercialisé activement ou levée de fonds en cours | **35 – 55 %** |
+| 🔴 **Entreprise ou scale-up** | Intégration dans produit industriel ou plateforme (>10k users ou revenu élevé) | **55 – 75 %** |
+| 🔥 **Cas spéciaux, revente, redistribution, IA-as-a-service** | Repackaging, marketplace, white-label, formation commerciale... | **70 – 88 %** |
+
+⚖️ Le taux exact est fixé par **accord avec l’auteur** et figure dans le contrat signé.
+
+---
+
+🔐 RESTRICTIONS FORMELLES
+- ❌ Revente ou redistribution du code, même modifié, sans autorisation
+- ❌ Suppression ou dissimulation des mentions d’origine
+- ❌ Contournement des mécanismes de royalties
+- ❌ Hébergement ou fork public du projet sans mention claire de la licence
+
+---
+
+📅 DURÉE & ÉVOLUTION
+Cette licence est valable jusqu’au **01/01/2027**, date à laquelle elle pourra être convertie en licence libre type GPL ou maintenue avec nouvelles conditions.
+
+---
+
+📩 CONTACT & DEMANDE DE LICENCE
+Pour un usage commercial, signature de contrat ou demande de dérogation :
+
+**Auteur : Kilian Diama**  
+**Contact : contact@tonsite.io**  
+**Gumroad officiel : https://gumroad.com/tonlien**
+
+---
+
+Ce projet représente plusieurs centaines d’heures de recherche, développement, tests et vision cognitive.  
+**Tout usage détourné ou abusif entraînera des poursuites.**
+
+Merci de respecter le travail fourni. 🧠
