@@ -51,11 +51,17 @@ Je suis ouvert, sérieux, et à l'écoute des collaborations intéressantes. �
 
 ---
 
-## 🛒 Obtenir une clé d’accès (1 € symbolique)
+## 💸 Paiement des royalties (sans contrat)
 
-🔓 Débloquez l’accès complet et légitimez votre usage du moteur :
+Vous pouvez régulariser votre usage d'AGI-SaaS **sans avoir à prendre contact**, en sélectionnant le niveau correspondant à votre situation.
 
-👉 [Obtenir ma licence AGI-SaaS sur Gumroad (1 €)](https://diamajewel.gumroad.com/l/ekjui)
+👉 Paiements de royalties disponibles via Gumroad :  
+[5 €]([https://gumroad.com/l/royalty5](https://diamajewel.gumroad.com/l/fuxhg)) • [10 €]([https://gumroad.com/l/royalty10](https://diamajewel.gumroad.com/l/dhhlc)) • [20 €]([https://gumroad.com/l/royalty20](https://diamajewel.gumroad.com/l/hwxxle)) • [50 €]([https://gumroad.com/l/royalty50](https://diamajewel.gumroad.com/l/odvvy)) • [100 €]([https://gumroad.com/l/royalty100](https://diamajewel.gumroad.com/l/ijpnf)) • [250 €]([https://gumroad.com/l/royalty250](https://diamajewel.gumroad.com/l/gunxf)) • [500 €]([https://gumroad.com/l/royalty500](https://diamajewel.gumroad.com/l/sllxv)) [1000 €]([https://gumroad.com/l/royalty1000](https://diamajewel.gumroad.com/l/qmhqx)) [2500 €]([https://gumroad.com/l/royalty2500](https://diamajewel.gumroad.com/l/fqtirg))
+
+> 📜 Chacun de ces paiements est considéré comme une preuve de respect de la licence.  
+> Vous n’avez **pas besoin de contrat signé**, sauf si vous le souhaitez.  
+> Une fois le paiement effectué, vous pouvez utiliser AGI-SaaS dans la limite du barème correspondant.
+
 
 ---
 
