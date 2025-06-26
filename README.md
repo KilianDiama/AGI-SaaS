@@ -22,7 +22,7 @@ Ce projet a été conçu comme base d’une **véritable AGI modulaire**, dotée
 
 🔒 **Ce prix n’inclut aucun droit commercial illimité.**
 
-- Chaque utilisateur **accepte automatiquement des royalties de 18 % à 78 %** par usage ou revente du moteur, à convenir avec moi.
+- Chaque utilisateur **accepte automatiquement des royalties de 12 % à 78 %** par usage ou revente du moteur, à convenir avec moi.
 - Tout usage commercial doit faire l’objet :
   - d’un **contrat encadré (min. 3 mois)**
   - d’un **accord explicite sur le % des revenus reversés**
