@@ -1,3 +1,7 @@
+![Royalties 8–88%](https://img.shields.io/badge/Royalties-8%20to%2088%25-important?style=flat-square&color=red)
+![License: Custom BSL](https://img.shields.io/badge/license-Custom%20BSL-blue)
+
+
 # 🧠 AGI-SaaS – Moteur Cognitif Modulaire
 
 Bienvenue sur **AGI-SaaS**, un projet d’intelligence artificielle générale modulaire conçu pour l'amusement, la création de bots intelligents, d’API IA ou de produits SaaS.
