@@ -1,8 +1,8 @@
-1-télecharger vos LLMs sur ollama 
-2-lancer le noyau (python launcher.py sur la racine du dossier)
+1-télécharger vos LLMs sur ollama 
+2-lancer le noyau (python launcher.py à la racine du dossier)
 3-ce connecter a l'adresse http://127.0.0.1:8000/docs de votre navigateur
-4-appuyer dur "try it out" dans le run
-5-selectionner votre modele et ecrire un message comme suit : 
+4-appuyer sur "try it out" dans le run
+5-selectionner votre modele et écrire un message comme suit dans le post : 
 {
   "data": {
     "model": ["llama3","orca-mini","mistral", "gemma"],
@@ -14,5 +14,5 @@
     }
   }
 }
-6-cela peut prendre plusieur minute pour obtenir une reponse.
+6-Appuyer sur execute. cela peut prendre plusieur minute pour obtenir une reponse.
 7-ce travaille n'es pas parfais mais il porte de bonne fondation sur ce que pourrai etre votre future ia ou SaaS.
