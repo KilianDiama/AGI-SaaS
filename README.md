@@ -25,22 +25,6 @@ Le code est librement consultable et modifiable à des fins personnelles ou expl
 
 ---
 
-## 📜 Barème indicatif des royalties
-
-| 💼 Cas d’usage                      | 🎯 Exemple concret                              | 💰 Royalties |
-|-----------------------------------|-------------------------------------------------|--------------|
-| Usage personnel ou expérimental   | Bot IA local, projet étudiant, test technique  | **8 – 15 %** |
-| Micro-SaaS ou freelance           | Outil commercial léger, usage client limité    | **15 – 25 %** |
-| API publique ou SaaS structuré    | Plateforme IA, assistants vocaux, bots payants | **25 – 40 %** |
-| Startup ou levée de fonds         | MVP + utilisateurs actifs, monétisation sérieuse| **35 – 55 %** |
-| Intégration en entreprise         | Produit vendu ou embarqué                      | **55 – 75 %** |
-| Revente, packaging, white-label   | Marketplace, plateforme, usage indirect        | **70 – 88 %** |
-
-> 📝 Un **contrat d’une durée minimale de 3 mois** est requis pour tout usage commercial.  
-> 💼 Le taux exact est à discuter en fonction de votre projet.  
-> 📧 Contact direct : **[diamajax@gmail.com](mailto:diamajax@gmail.com)**
-
----
 
 ## 🔐 Respect & protection
 
