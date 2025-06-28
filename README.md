@@ -51,20 +51,6 @@ Je suis ouvert, sérieux, et à l'écoute des collaborations intéressantes. �
 
 ---
 
-## 💸 Paiement des royalties (sans contrat)
-
-Vous pouvez régulariser votre usage d'AGI-SaaS **sans avoir à prendre contact**, en sélectionnant le niveau correspondant à votre situation.
-
-👉 Paiements de royalties disponibles via Gumroad :  
-[1 €](https://diamajewel.gumroad.com/l/ekjui) • [5 €](https://diamajewel.gumroad.com/l/fuxhg) • [10 €](https://diamajewel.gumroad.com/l/dhhlc) • [20 €](https://diamajewel.gumroad.com/l/hwxxle) • [50 €](https://diamajewel.gumroad.com/l/odvvy) • [100 €](https://diamajewel.gumroad.com/l/ijpnf) • [250 €](https://diamajewel.gumroad.com/l/gunxf) • [500 €](https://diamajewel.gumroad.com/l/sllxv) • [1000 €](https://diamajewel.gumroad.com/l/qmhqx) • [2500 €](https://diamajewel.gumroad.com/l/fqtirg)
-
-> 📜 Chacun de ces paiements est considéré comme une preuve de respect de la licence.  
-> Vous n’avez **pas besoin de contrat signé**, sauf si vous le souhaitez.  
-> Une fois le paiement effectué, vous pouvez utiliser AGI-SaaS dans la limite du barème correspondant.
-Le paiement des royalties est OBLIGATOIRE à partir du moment ou vous generez du revenu avec ce code, ce produit, ou toute autres derives dessus.
-
----
-
 ## 🛠 Installation rapide
 
 
