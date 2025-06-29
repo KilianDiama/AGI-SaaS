@@ -1,82 +1,62 @@
-# AGI SaaS – LICENCE D’UTILISATION COMMERCIALE RÉGULÉE  
-**Version 1.0 – Juin 2025**  
-**Auteur : Kilian Diama**  
-📧 contact : diamajax@gmail.com  
+LICENCE D’UTILISATION AVEC REDEVANCES COMMERCIALES (0,8%)
 
----
+1. Objet
 
-## 🧠 DESCRIPTION
+Le présent contrat de licence (la « Licence ») définit les conditions dans lesquelles l’Auteur, [Nom, prénom ou nom de l’entité], ci-après désigné « le Concédant », concède au Licencié une licence d’utilisation du Logiciel [Nom du logiciel ou code concerné], ci-après désigné « le Logiciel ».
 
-Ce projet AGI-SaaS est mis à disposition sous une **licence ouverte mais encadrée**.  
-Le code est lisible et exploitable à des fins :
+2. Étendue des droits accordés
 
-- non commerciales  
-- pédagogiques  
-- exploratoires ou personnelles  
+Le Concédant accorde au Licencié un droit non exclusif, non transférable et révocable d’utiliser, reproduire, modifier et distribuer le Logiciel, sous réserve du respect des conditions financières prévues au présent contrat.
 
-Cependant, **toute utilisation à but lucratif ou diffusion publique** est **strictement soumise à une clause de royalties**, comprise entre **8 % et 88 %** du chiffre d’affaires généré par l’utilisation directe ou indirecte du projet.
+3. Clause de redevance commerciale obligatoire
 
----
+3.1 Utilisation commerciale
+Toute utilisation du Logiciel, directe ou dérivée, à des fins commerciales, lucratives ou dans le cadre de services ou produits à but lucratif, donne lieu à une redevance obligatoire au profit du Concédant.
 
-## 📌 CONDITIONS D’UTILISATION NON COMMERCIALE
+3.2 Taux de redevance
+Le taux de la redevance est fixé à 0,8 % (zéro virgule huit pour cent) du chiffre d’affaires brut généré directement ou indirectement par l’utilisation du Logiciel ou de toute œuvre dérivée en contenant des éléments substantiels.
 
-✅ Lecture, test, modification locale  
-✅ Déploiement privé non accessible au public  
-✅ Utilisation académique ou dans des projets sans revenus
+3.3 Portée
+Cette obligation de redevance s’applique y compris :
 
----
+aux ventes de produits, services ou abonnements intégrant le Logiciel,
 
-## 🚫 CONDITIONS D’UTILISATION COMMERCIALE
+à la revente, redistribution ou sous-licence,
 
-L’utilisateur souhaitant exploiter le projet dans un cadre monétisé (y compris API, formation, site, SaaS ou revente) doit :
+aux prestations de services tirant un avantage direct de l’utilisation du Logiciel,
 
-- Obtenir une autorisation écrite de l’auteur  
-- Signer un contrat de licence commerciale d'une durée minimale de 3 mois  
-- Reverser des **royalties** selon la grille ci-dessous
+aux œuvres dérivées ou extensions du Logiciel,
 
----
+aux modèles économiques fondés sur l’usage du Logiciel, même indirectement.
 
-## 💰 BARÈME INDICATIF DE ROYALTIES
+3.4 Durée de l’obligation
+La redevance est due pendant toute la durée d’exploitation commerciale du Logiciel ou de ses dérivés.
 
-| Cas d’usage                         | Exemple                                        | Royalties |
-|-------------------------------------|------------------------------------------------|-----------|
-| 🟢 Usage personnel / exploratoire   | Bot local, app IA perso, < 20 utilisateurs     | 8 – 15 %  |
-| 🟡 Freelance / Micro-SaaS           | Petit outil, site client modeste               | 15 – 25 % |
-| 🟠 SaaS ou API publique              | Plateforme, assistant IA avec facturation      | 25 – 40 % |
-| 🔵 Startup / levée de fonds         | MVP commercial actif, acquisition d'utilisateurs| 35 – 55 % |
-| 🔴 Entreprise ou intégration pro    | Produit commercial déployé à grande échelle    | 55 – 75 % |
-| 🔥 Revente / packaging / IA-as-a-service | White-label, marketplace, produit dérivé | 70 – 88 % |
+4. Déclarations et rapports
 
-🎯 Le **taux exact** est défini par **accord mutuel** et figure dans le contrat signé.
-Le paiement des royalties ce fais à partir du moment ou vous generez du revenu avec : le code, le produit, ou toute autres derives.
+Le Licencié s’engage à transmettre au Concédant, chaque trimestre, un rapport de revenus générés par l’exploitation du Logiciel ou de ses dérivés, accompagné du paiement correspondant à la redevance due.
 
----
+5. Audit
 
-## 🔐 CLAUSES INTERDITES
+Le Concédant se réserve le droit de faire auditer, une fois par an, les comptes liés à l’utilisation commerciale du Logiciel par un tiers indépendant, aux frais du Licencié si une sous-déclaration supérieure à 5% est constatée.
 
-- ❌ Revente ou redistribution du code, même modifié, sans autorisation  
-- ❌ Suppression des mentions d’auteur ou de la licence  
-- ❌ Publication publique d’un fork sans mention de la licence  
-- ❌ Contournement technique des restrictions ou du système de clé  
+6. Sanctions
 
----
+Tout manquement au paiement des redevances, dissimulation ou retard de plus de 30 jours après mise en demeure expose le Licencié à :
 
-## 📅 VALIDITÉ
+la résiliation immédiate de la Licence,
 
-Cette licence est valable jusqu’au **1er janvier 2027**.  
-Elle pourra ensuite évoluer ou être convertie en licence libre (type GPL) selon décision de l’auteur.
+des intérêts de retard au taux légal majoré,
 
----
+des poursuites pour contrefaçon ou enrichissement sans cause,
 
-## 📩 CONTACT / LICENCE COMMERCIALE
+une indemnisation forfaitaire minimale de 10 fois le montant dû.
 
-Pour une licence commerciale, une demande de dérogation ou un contrat personnalisé :
+7. Interdiction de suppression des mentions
 
-**Auteur : Kilian Diama**  
-📧 Email : [diamajax@gmail.com](mailto:diamajax@gmail.com)  
-🛒 Gumroad : [https://diamajewel.gumroad.com/l/ekjui](https://diamajewel.gumroad.com/l/ekjui)
+Le Licencié ne peut en aucun cas supprimer ou masquer les mentions relatives aux droits du Concédant, y compris dans les versions modifiées ou dérivées.
 
----
+8. Loi applicable – Juridiction compétente
 
-> ⚠️ Toute utilisation abusive, contrefaçon ou exploitation sans contrat entraînera des poursuites juridiques.  
-Merci de respecter le travail et l’effort investi dans ce projet. 🧠
+Ce contrat est régi par la loi [française, suisse, etc.]. En cas de litige, compétence exclusive est donnée aux tribunaux de [Tours].
+
