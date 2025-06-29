@@ -1,4 +1,4 @@
-![Royalties 0.8%](https://img.shields.io/badge/Royalties-8%20to%2088%25-important?style=flat-square&color=red)
+
 
 
 # 🧠 AGI-SaaS – Moteur Cognitif Modulaire
