@@ -1,5 +1,5 @@
-![Royalties 8–88%](https://img.shields.io/badge/Royalties-8%20to%2088%25-important?style=flat-square&color=red)
-![License: Custom BSL](https://img.shields.io/badge/license-Custom%20BSL-blue)
+![Royalties 0.8%](https://img.shields.io/badge/Royalties-8%20to%2088%25-important?style=flat-square&color=red)
+
 
 # 🧠 AGI-SaaS – Moteur Cognitif Modulaire
 
@@ -21,7 +21,7 @@ Ce projet met l’accent sur l’évolution cognitive via un système de **plugi
 ## 💸 Licence et accès
 
 Le code est librement consultable et modifiable à des fins personnelles ou exploratoires.  
-**Toute utilisation commerciale est encadrée par une clause de royalties comprise entre 8 % et 88 % selon les cas d’usage.**
+**Toute utilisation commerciale est encadrée par une clause de royalties de 0.8 % (selon les cas d’usage).**
 
 ---
 
