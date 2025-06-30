@@ -1,0 +1,27 @@
+1-Download your LLMs via Ollama
+
+2-Start the core engine
+python launcher.py
+
+3-Open the interactive API docs
+Navigate to http://127.0.0.1:8000/docs in your browser.
+
+4-Enable “Try it out” on the /run endpoint.
+
+5-Configure your request by selecting your model and pasting the following JSON into the request body:
+
+{
+  "data": {
+    "model": ["llama3", "orca-mini", "mistral", "gemma"],
+    "backend": "ollama",
+    "message": "your message here",
+    "options": {
+      "temperature": 1,
+      "max_tokens": 1024
+    }
+  }
+}
+
+6-Click “Execute”. Note that it may take a few minutes to receive a response.
+
+7-Keep in mind this is a work in progress, but it lays the foundation for what your next-gen AI or SaaS could become.
