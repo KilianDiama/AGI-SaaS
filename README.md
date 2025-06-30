@@ -22,7 +22,16 @@ Welcome to **AGI-SaaS**, a playful yet powerful modular General AI engine for bu
 
 ## 🛠 Quick Start
 
-copy the release and look at "user guide" for try it
+1. **Clone the repo**  
+   git clone https://github.com/KilianDiama/AGI-SaaS.git
+   cd AGI-SaaS
+2.**Install dependencies & start the server**
+   pip install -r requirements.txt
+   uvicorn main:app --reload
+3.**Try it out**
+   Open your browser and navigate to:
+   http://127.0.0.1:8000/docs
+For detailed instructions, check the User Guide.
 
 ---
 
