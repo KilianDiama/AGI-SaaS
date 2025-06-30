@@ -1,6 +1,6 @@
 # 🧠 AGI-SaaS – Modular Cognitive Engine
 
-Welcome to **AGI-SaaS**, a playful yet powerful modular General AI engine for building intelligent bots, AI-powered APIs, or full SaaS products. 
+Welcome to **AGI-SaaS**, a playful yet powerful modular General AI engine for building intelligent bots, AI-powered APIs, or full SaaS products.
 
 ---
 
@@ -22,16 +22,20 @@ Welcome to **AGI-SaaS**, a playful yet powerful modular General AI engine for bu
 
 ## 🛠 Quick Start
 
-1. Clone the repo:  
+1. **Clone the repo**  
    git clone https://github.com/KilianDiama/AGI-SaaS.git
    cd AGI-SaaS
    
-Install dependencies & run:
+Install dependencies & run
 
 pip install -r requirements.txt
 uvicorn main:app --reload
-Explore your new API at 127.0.0.1:8000/docs
+Explore the API
 
+Ouvrez votre navigateur à l’adresse :
+
+
+http://127.0.0.1:8000/docs
 📁 Project Structure
 main.py
 FastAPI entry point
