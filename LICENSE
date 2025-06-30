@@ -1,62 +1,52 @@
-LICENCE D’UTILISATION AVEC REDEVANCES COMMERCIALES (0,8%)
+# COMMERCIAL ROYALTY LICENSE (0.8%)
 
-1. Objet
+## 1. Purpose
 
-Le présent contrat de licence (la « Licence ») définit les conditions dans lesquelles l’Auteur, [Nom, prénom ou nom de l’entité], ci-après désigné « le Concédant », concède au Licencié une licence d’utilisation du Logiciel [Nom du logiciel ou code concerné], ci-après désigné « le Logiciel ».
+This License Agreement (the “License”) sets forth the terms under which the Author, [Name of individual or entity], hereinafter the “Licensor,” grants the Licensee the right to use the software [Name of software or code], hereinafter the “Software.”
 
-2. Étendue des droits accordés
+## 2. Grant of Rights
 
-Le Concédant accorde au Licencié un droit non exclusif, non transférable et révocable d’utiliser, reproduire, modifier et distribuer le Logiciel, sous réserve du respect des conditions financières prévues au présent contrat.
+The Licensor grants the Licensee a non-exclusive, non-transferable, revocable right to use, reproduce, modify, and distribute the Software, subject to the financial terms set forth in this License.
 
-3. Clause de redevance commerciale obligatoire
+## 3. Mandatory Commercial Royalty Clause
 
-3.1 Utilisation commerciale
-Toute utilisation du Logiciel, directe ou dérivée, à des fins commerciales, lucratives ou dans le cadre de services ou produits à but lucratif, donne lieu à une redevance obligatoire au profit du Concédant.
+### 3.1 Commercial Use  
+Any direct or derivative commercial, for-profit, or revenue-generating use of the Software or any substantial derivative work shall incur a mandatory royalty fee payable to the Licensor.
 
-3.2 Taux de redevance
-Le taux de la redevance est fixé à 0,8 % (zéro virgule huit pour cent) du chiffre d’affaires brut généré directement ou indirectement par l’utilisation du Logiciel ou de toute œuvre dérivée en contenant des éléments substantiels.
+### 3.2 Royalty Rate  
+The royalty rate is fixed at 0.8% (zero point eight percent) of the gross revenue generated directly or indirectly by the use of the Software or any derivative work containing substantial elements of the Software.
 
-3.3 Portée
-Cette obligation de redevance s’applique y compris :
+### 3.3 Scope  
+This royalty obligation applies to, but is not limited to:  
+- Sales of products, services, or subscriptions incorporating the Software  
+- Resale, redistribution, or sublicensing of the Software  
+- Services deriving direct benefit from the use of the Software  
+- Derivative works or extensions of the Software  
+- Business models based on the use of the Software, even indirectly
 
-aux ventes de produits, services ou abonnements intégrant le Logiciel,
+### 3.4 Duration  
+The royalty obligation persists for the entire commercial exploitation period of the Software or its derivatives.
 
-à la revente, redistribution ou sous-licence,
+## 4. Reporting and Payments
 
-aux prestations de services tirant un avantage direct de l’utilisation du Logiciel,
+The Licensee shall deliver to the Licensor, on a quarterly basis, a report of revenues generated from commercial exploitation of the Software or its derivatives, together with payment of the corresponding royalty.
 
-aux œuvres dérivées ou extensions du Logiciel,
+## 5. Audit
 
-aux modèles économiques fondés sur l’usage du Logiciel, même indirectement.
+The Licensor reserves the right to conduct, once per year, an independent third-party audit of the Licensee’s accounts related to the commercial use of the Software. If underreporting exceeding 5% is discovered, the Licensee shall bear the cost of the audit.
 
-3.4 Durée de l’obligation
-La redevance est due pendant toute la durée d’exploitation commerciale du Logiciel ou de ses dérivés.
+## 6. Remedies for Breach
 
-4. Déclarations et rapports
+Failure to pay royalties, concealment, or delay exceeding 30 days after formal notice may lead to:  
+- Immediate termination of this License  
+- Late payment interest at the higher legal rate  
+- Legal action for copyright infringement or unjust enrichment  
+- Liquidated damages of at least ten times the amount owed
 
-Le Licencié s’engage à transmettre au Concédant, chaque trimestre, un rapport de revenus générés par l’exploitation du Logiciel ou de ses dérivés, accompagné du paiement correspondant à la redevance due.
+## 7. Attribution
 
-5. Audit
+The Licensee shall not remove, obscure, or alter any notices or attributions regarding the Licensor’s rights, including in modified or derivative versions of the Software.
 
-Le Concédant se réserve le droit de faire auditer, une fois par an, les comptes liés à l’utilisation commerciale du Logiciel par un tiers indépendant, aux frais du Licencié si une sous-déclaration supérieure à 5% est constatée.
+## 8. Governing Law and Jurisdiction
 
-6. Sanctions
-
-Tout manquement au paiement des redevances, dissimulation ou retard de plus de 30 jours après mise en demeure expose le Licencié à :
-
-la résiliation immédiate de la Licence,
-
-des intérêts de retard au taux légal majoré,
-
-des poursuites pour contrefaçon ou enrichissement sans cause,
-
-une indemnisation forfaitaire minimale de 10 fois le montant dû.
-
-7. Interdiction de suppression des mentions
-
-Le Licencié ne peut en aucun cas supprimer ou masquer les mentions relatives aux droits du Concédant, y compris dans les versions modifiées ou dérivées.
-
-8. Loi applicable – Juridiction compétente
-
-Ce contrat est régi par la loi [française, suisse, etc.]. En cas de litige, compétence exclusive est donnée aux tribunaux de [Tours].
-
+This License shall be governed by the laws of [France/Switzerland/etc.]. Any dispute arising under or in connection with this License shall be subject to the exclusive jurisdiction of the courts of [City, e.g., Tours].
