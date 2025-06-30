@@ -30,7 +30,7 @@ Install dependencies & run:
 
 pip install -r requirements.txt
 uvicorn main:app --reload
-Explore your new API at http://localhost:8000/docs
+Explore your new API at 127.0.0.1:8000/docs
 
 📁 Project Structure
 main.py
