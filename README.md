@@ -30,9 +30,9 @@ Welcome to **AGI-SaaS**, a playful yet powerful modular General AI engine for bu
    
 2.**Install dependencies & start the server**
 
-   pip install -r requirements.txt
+  pip install -r requirements.txt
    
-   uvicorn main:app --reload
+  uvicorn main:app --reload
    
 3.**Try it out**
 
