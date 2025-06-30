@@ -1,62 +1,64 @@
-🛡 License
+# 🧠 AGI-SaaS – Modular Cognitive Engine
 
-
-# 🧠 AGI-SaaS – Moteur Cognitif Modulaire
-
-Bienvenue sur **AGI-SaaS**, un projet d’intelligence artificielle générale modulaire conçu pour l’amusement, la création de bots intelligents, d’API IA ou de produits SaaS.
-
-Ce projet met l’accent sur l’évolution cognitive via un système de **plugins extensibles**, une architecture flexible, et une API prête à déployer.
+Welcome to **AGI-SaaS**, a playful yet powerful modular General AI engine for building intelligent bots, AI-powered APIs, or full SaaS products. 
 
 ---
 
-## 🚀 Fonctionnalités
+## 🚀 Key Features
 
-- 🔌 Plugins cognitifs dynamiques (raisonnement, réflexion, analyse…)
-- ⚙️ API FastAPI compatible SaaS, déployable localement ou en ligne
-- 💾 Journal cognitif, mémoire contextuelle, logiques internes
-- 🧱 Architecture modulaire, claire et personnalisable
+- 🔌 **Dynamic Cognitive Plugins**  
+  Reasoning, reflection, analysis—and more—plugged in and ready to go.
 
----
+- ⚙️ **FastAPI-Based API**  
+  Deploy locally or in the cloud, out of the box.
 
-## 💸 Licence et accès
+- 💾 **Cognitive Journal & Context Memory**  
+  Keep track of internal logic, session state, and progressive learning.
 
-Le code est librement consultable et modifiable à des fins personnelles ou exploratoires.  
-**Toute utilisation commerciale est encadrée par une clause de royalties de 0.8 % (selon les cas d’usage).**
-
----
-
-
-## 🔐 Respect & protection
-
-Ce projet représente **de nombreuses heures de conception, de test et de vision IA**.  
-Toute forme d'exploitation abusive, revente, ou intégration commerciale sans autorisation est interdite.
-
-Je suis ouvert, sérieux, et à l'écoute des collaborations intéressantes. 🤝
+- 🧱 **Modular Architecture**  
+  Clear, customizable structure makes it easy to extend or swap components.
 
 ---
 
-## 🛠 Installation rapide
+## 🛠 Quick Start
 
+1. Clone the repo:  
+   git clone https://github.com/KilianDiama/AGI-SaaS.git
+   cd AGI-SaaS
+   
+Install dependencies & run:
 
 pip install -r requirements.txt
 uvicorn main:app --reload
-📁 Structure et fichiers visibles
-main.py → API FastAPI
+Explore your new API at http://localhost:8000/docs
 
-plugins/input_plugin.py → Plugin cognitif de base
+📁 Project Structure
+main.py
+FastAPI entry point
 
-noyau_core.py → Cœur de l’AGI (partiellement déverrouillable)
+noyau_core.py
+Core AGI engine (partially unlockable)
 
-plugins/premium/ → Modules avancés accessibles sous licence
+plugins/
 
-requirements.txt → Dépendances Python
+input_plugin.py – Base cognitive plugin
 
-LICENSE → Détail légal de la protection (royalties, contrat, etc.)
+premium/ – Advanced modules under commercial license
 
-📄 Licence
-📜 Voir le fichier LICENSE pour tous les détails.
-Vous pouvez explorer, apprendre et tester librement.
-Mais tout usage commercial ou redistribution impose un contrat et des royalties.
+requirements.txt
+Python dependencies
 
-Merci pour votre attention 🙏
-Ce projet peut être une vraie base IA – je suis dispo si votre idée est sérieuse.
+LICENSE
+Full legal terms
+
+💸 License & Commercial Use
+Personal & Exploratory: free to browse, fork, and experiment.
+
+Commercial: requires a royalty agreement (0.8% of relevant revenue).
+
+Please refer to the LICENSE file for full details. Unauthorized resale or abusive use is strictly prohibited.
+
+🤝 Let’s Collaborate
+If you have a serious idea or project, I’m all ears! Whether you need custom plugins, integration help, or partnership, drop me a line.
+
+Thanks for checking out AGI-SaaS—your modular AI foundation awaits! 🙏
