@@ -24,6 +24,8 @@ Welcome to **AGI-SaaS**, a playful yet powerful modular General AI engine for bu
 
 copy the release and look at "user guide" for try it
 
+---
+
 💸 License & Commercial Use
 Personal & Exploratory: free to browse, fork, and experiment.
 
