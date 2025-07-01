@@ -55,3 +55,9 @@ Please refer to the LICENSE file for full details. Unauthorized resale or abusiv
 If you have a serious idea or project, I’m all ears! Whether you need custom plugins, integration help, or partnership, drop me a line.
 
 Thanks for checking out AGI-SaaS—your modular AI foundation awaits! 🙏
+
+## 📬 Contact
+
+Pour toute question, collaboration ou utilisation commerciale :
+
+📧 diamajax@gmail.com
